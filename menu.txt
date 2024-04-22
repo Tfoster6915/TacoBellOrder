@@ -1,0 +1,7 @@
+beef taco, 2.99, 300, 20, 15, 10
+nachos, 5.99, 500, 25, 30, 5
+pepsi, 1.99, 150, 0, 0, 40
+cheesy gordita crunch, 3.99, 350, 15, 20, 5
+chicken enchilada burrito, 6.49, 600, 30, 25, 5
+cinnabon delights, 4.99, 400, 10, 15, 20
+cinnamon twist, 2.49, 250, 5, 10, 30
